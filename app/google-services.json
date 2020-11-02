@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "352780752201",
+    "firebase_url": "https://registrationapp-97e14.firebaseio.com",
+    "project_id": "registrationapp-97e14",
+    "storage_bucket": "registrationapp-97e14.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:352780752201:android:eba1727eadc2d84fc93698",
+        "android_client_info": {
+          "package_name": "com.codewithadi.registrationapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "352780752201-qoulldnm998916itlmop7nkd962jjopc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNEtyYzGOrhmGP8O34uS9VIxKifIgCXZo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "352780752201-qoulldnm998916itlmop7nkd962jjopc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
